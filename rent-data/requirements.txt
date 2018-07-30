@@ -1,0 +1,5 @@
+num2words==0.5.7
+Scrapy==1.5.1
+numpy==1.15.0
+matplotlib==2.2.2
+pyshp==1.2.12
